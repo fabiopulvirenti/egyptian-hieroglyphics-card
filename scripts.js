@@ -29,11 +29,11 @@ const alphabet = {
 const professionList = {
   pharaoh: "&#77879 &#77896",
   teacher: "&#78580 &#78016 &#78332 &#78143 &#78284 &#78799 &#78811",
-  student: "&#77896",
+  student: "&#78580 &#78263 &#78143 &#78829 &#78189 &#77896",
   priest: "&#78193 &#77981 &#78016 &#77830",
-  healer: "&#77896",
-  soldier: "&#77896",
-  craftsman: "&#77896",
+  healer: "&#78580 &#78193 &#77991 &#78861 &#77981 &#78753",
+  soldier: "&#77838 &#77824 &#78826",
+  craftsman: "&#78580 &#78243 &#77963 &#78193",
 };
 
 nameElement = document.getElementById("floatingInputName");
